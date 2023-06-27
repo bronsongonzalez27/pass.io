@@ -1,1 +1,19 @@
 
+body{
+    background-color: grey;
+    font: sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    }
+    .container{
+    background-color: lightgrey;
+    color: black;
+    padding: 40px; 
+    font-size: 30px;
+    }
+    #timer{
+    color: red;
+    border:solid 2px red;
+    }
+    
