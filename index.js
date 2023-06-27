@@ -15,19 +15,19 @@ let score = 0;
 //  the quiz questions with the answers
 const questions  = [
   {
-    question: 'How many pistol rounds are in CSGO',
-    choices: ['1', '2', '3'],
-    correctAnswer: '2'
+    question: 'Inside which element do you put JavaScript?',
+    choices: ['<var>', '<script>', '<section>'],
+    correctAnswer: '<script>'
   },
   {
-    question: 'What is the best turnstile album?',
-    choices: ['Glown on', 'Time + Space', 'Nonstop Feeling'],
-    correctAnswer: 'Time + Space'
+    question: 'Javascript is an _______ language',
+    choices: ['Object Oriented', 'Object Based', 'Procerdural'],
+    correctAnswer: 'Objet Oriented'
   },
   {
-    question: 'What color is the sky?',
-    choices: ['orange', 'blue', 'red'],
-    correctAnswer: 'blue'
+    question: 'How can a datatype be declared to be a constant type?',
+    choices: ['const', 'var', 'let'],
+    correctAnswer: 'const'
   },
  {
   question: 'what is  2 + 2',
